@@ -9,7 +9,7 @@ import java.util.stream.Stream;
  *
  * @author Enzo Portillo.
  */
-public class Ejercicio2 {
+public class Punto2 {
     
     public static void main(String[] args) {
         List<String> palabras = new ArrayList<>();

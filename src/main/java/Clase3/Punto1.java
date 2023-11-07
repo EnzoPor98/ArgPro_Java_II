@@ -8,7 +8,7 @@ import java.util.stream.Collectors;
  *
  * @author Enzo Portillo.
  */
-public class Ejercicio1 {
+public class Punto1 {
 
     public static void main(String[] args) {
         List<String> palabras = new ArrayList<>();
